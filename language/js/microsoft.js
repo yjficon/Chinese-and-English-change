@@ -1,6 +1,6 @@
 /* Copyright 2010 Microsoft Corporation */
 window['_mstConfig'] = {
-	appId: 'YMdxaBo_dAhoigp4zIBxrLq4W8Ronwxh5VoGdVT5wcnXj1MzeXU-GC1dv4UxJ2V9bZUvx_83rg38a3lBJ-g1rCfX_DXmYbyWGz6D9-ymUl2dTu3iXOq_cptXJ6gQ_DUp-',
+	appId: 'Yt49HLjx7GIBYBzCy6VQS1EU-5X5w05Wx5G3ueeol0D0VJJWaJwmjswRXmjnzyCoyRxqoiaVLnyuxXCcdcEyWS3SNZjWR3i0XdJyiUecq3tvBXPjlIDtdqHgS__1rDaXa',
 	rootURL: 'http\x3a\x2f\x2fwww.microsofttranslator.com\x2f',
 	baseURL: 'http\x3a\x2f\x2fwww.microsofttranslator.com\x2fajax\x2fv3\x2fWidgetV3.ashx\x3fsiteData\x3dueOIGRSKkd965FeEGM5JtQ\x2a\x2a',
 	serviceURL: 'https\x3a\x2f\x2fapi.microsofttranslator.com\x2fv2\x2fajax.svc',
@@ -19,7 +19,7 @@ window['_mstConfig'] = {
 	OnErrorHandler: '',
 	WidgetSiteDomain: ''
 };﻿
-window._mstConfig['SignIn'] = '<a href="https://login.live.com/login.srf?wa=wsignin1.0&amp;rpsnv=13&amp;ct=1559099451&amp;rver=6.7.6636.0&amp;wp=LBI&amp;wreply=http:%2F%2Fwww.microsofttranslator.com%2Fajax%2Fv2%2Fauth.aspx%3Fpru%3Dhttps%253a%252f%252fwww.cnblogs.com%252f&amp;lc=2052&amp;id=268160">登录</a>';
+window._mstConfig['SignIn'] = '<a href="https://login.live.com/login.srf?wa=wsignin1.0&amp;rpsnv=13&amp;ct=1559194137&amp;rver=6.7.6636.0&amp;wp=LBI&amp;wreply=http:%2F%2Fwww.microsofttranslator.com%2Fajax%2Fv2%2Fauth.aspx%3Fpru%3Dhttp%253a%252f%252fwww.microsofttranslator.com%252fajax%252fv3%252fWidgetV3.ashx&amp;lc=2052&amp;id=268160">登录</a>';
 if(!this.Microsoft) this.Microsoft = {};
 if(!this.Microsoft.Translator) this.Microsoft.Translator = {};
 if(Microsoft.Translator.Reset) Microsoft.Translator.Reset();
